@@ -272,7 +272,7 @@ gg="AM"
 fi
 curl -sS ifconfig.me > /etc/myipvps
 echo " "
-echo "=====================-[ BAHENOL Premium ]-===================="
+echo "=====================-[ uyfyi Premium ]-===================="
 echo ""
 echo "------------------------------------------------------------"
 echo ""
